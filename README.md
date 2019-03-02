@@ -4,9 +4,9 @@
 
 ### npm install
 
-Supported Platforms
+1. Supported Platforms
     ionic cordova plugin add cordova-plugin-appavailability
     npm install @ionic-native/app-availability
-Social Sharing
+2. Social Sharing
     ionic cordova plugin add cordova-plugin-x-socialsharing
     npm install @ionic-native/social-sharing
