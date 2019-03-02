@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "938789166121",
-    "firebase_url": "https://ionic4-push-notification.firebaseio.com",
-    "project_id": "ionic4-push-notification",
-    "storage_bucket": "ionic4-push-notification.appspot.com"
+    "project_number": "902919901220",
+    "firebase_url": "https://ionic-apis.firebaseio.com",
+    "project_id": "ionic-apis",
+    "storage_bucket": "ionic-apis.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:938789166121:android:764d2cb7da3280eb",
+        "mobilesdk_app_id": "1:902919901220:android:764d2cb7da3280eb",
         "android_client_info": {
           "package_name": "io.ionic.starter"
         }
       },
       "oauth_client": [
         {
-          "client_id": "938789166121-nqqcfn62armrbk57uso4e49ltcamfhi1.apps.googleusercontent.com",
+          "client_id": "902919901220-undl4l51gf1gbp4i29m7vsjlcumjcmot.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCN3Y5K7S_5zOwRRTE04GEzogj79TStG-Y"
+          "current_key": "AIzaSyCSh5tw8nWr6ajUTdPyBzXFqt0clyB5QqI"
         }
       ],
       "services": {

@@ -5,6 +5,7 @@ const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
   { path: 'home', loadChildren: './home/home.module#HomePageModule' },
   { path: 'social-sharing', loadChildren: './social-sharing/social-sharing.module#SocialSharingPageModule' },
+  { path: 'notification', loadChildren: './notification/notification.module#NotificationPageModule' },
 ];
 
 @NgModule({

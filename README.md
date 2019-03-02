@@ -10,3 +10,6 @@
 2. Social Sharing
     - [x] ionic cordova plugin add cordova-plugin-x-socialsharing
     - [x] npm install @ionic-native/social-sharing
+3. Local Notifications
+    - [x] ionic cordova plugin add cordova-plugin-local-notification
+    - [x] npm install @ionic-native/local-notifications
